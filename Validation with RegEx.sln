@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Validation with RegEx", "Validation with RegEx.csproj", "{FC052581-83DB-437B-A752-B537802A726A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC052581-83DB-437B-A752-B537802A726A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC052581-83DB-437B-A752-B537802A726A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC052581-83DB-437B-A752-B537802A726A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC052581-83DB-437B-A752-B537802A726A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D221C9EE-723C-4F06-923C-E82856C2F0C6}
+	EndGlobalSection
+EndGlobal
